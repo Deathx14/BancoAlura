@@ -1,3 +1,8 @@
+/*Programa creado por DANIELA VILLANUEVA M. 
+Github Deathx14 
+Dicord unicodee.14
+IG Deathx14 
+Mexico, S.L.P. ♥*/
 import java.util.Scanner;
 public class banco {
     public static void main(String[] args) {
